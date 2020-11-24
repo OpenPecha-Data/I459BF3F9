@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24101
   title: བདེན་པ་གཉིས་ལ་འཇུག་པ་ལ་སོགས་པའི་གཞུང་ཚན་བཞི།
-  volume: ''
+  volume:
+    a578d153bb5347deaf0b2b45c685c35a:
+      image_group_id: I1KG24234
+      title: Volume 1 of bden pa gnyis la 'jug pa la sogs pa'i gzhung tshan bzhi/
+      volume_number: 1
+      total_pages: 188
   author: ''
+ebook_metadata:
+  title: བདེན་པ་གཉིས་ལ་འཇུག་པ་ལ་སོགས་པའི་གཞུང་ཚན་བཞི།
+  author: ''
+  sku: P007843
+  cover: cover.jpg
+  layers:
+  - pagination
